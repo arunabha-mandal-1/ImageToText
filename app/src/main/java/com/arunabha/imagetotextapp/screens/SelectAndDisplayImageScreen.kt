@@ -71,7 +71,7 @@ fun SelectAndDisplayImageScreen(modifier: Modifier) {
                         .padding(bottom = 10.dp)
                         .fillMaxWidth()
                         .fillMaxHeight(0.5f),
-                    contentScale = ContentScale.Crop
+                    contentScale = ContentScale.Fit
                 )
             }
 
