@@ -1,2 +1,2 @@
 # ImageToText App
-## Built using Kotlin, Jetpack Compose, ML Kit
+## Built using Kotlin, Jetpack Compose and ML Kit
